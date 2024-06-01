@@ -1,5 +1,8 @@
 # WiFi and Hotspot-based Attendance System
 
+![Attend Work Presentation](https://github.com/devangspsingh/attendworkapp/assets/72688956/7909d3a4-c45f-4a5f-9433-089920496987)
+
+
 ## Working
 
 1. Our main idea is to utilize the user's WiFi to detect if the user is present in the range of the attendance taker's device (within the range of hotspot).
